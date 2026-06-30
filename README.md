@@ -124,4 +124,4 @@ Representative work:
 
 ## Contact
 
-For collaboration, technical review, or AI/ML TPM opportunities, connect through GitHub or LinkedIn.
+For collaboration, technical review, or career opportunities, connect through GitHub or LinkedIn.
