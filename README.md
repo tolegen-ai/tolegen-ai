@@ -110,7 +110,7 @@ Key themes:
 
 ---
 
-### High-Performance ML Systems (In Prgoress)
+### High-Performance ML Systems (In Progress)
 
 A systems-focused repository aligned with high-performance computing and scalable ML infrastructure.
 
@@ -126,7 +126,7 @@ Representative topics:
 
 ---
 
-### Computer Vision Perception Systems (In Prgoress)
+### Computer Vision Perception Systems (In Progress)
 
 A computer vision portfolio focused on applied perception pipelines and visual analytics.
 
